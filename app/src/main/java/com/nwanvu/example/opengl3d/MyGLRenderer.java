@@ -1,14 +1,14 @@
-package com.nwanvu.opengl3dexample;
-
-import javax.microedition.khronos.egl.EGLConfig;
-import javax.microedition.khronos.opengles.GL10;
-
-import com.nwanvu.opengl3dexample.obj.Cube;
-import com.nwanvu.opengl3dexample.obj.Square;
+package com.nwanvu.example.opengl3d;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;
 import android.opengl.GLU;
+
+import com.nwanvu.example.opengl3d.obj.Cube;
+import com.nwanvu.example.opengl3d.obj.Square;
+
+import javax.microedition.khronos.egl.EGLConfig;
+import javax.microedition.khronos.opengles.GL10;
 
 /**
  * OpenGL Custom renderer used with GLSurfaceView

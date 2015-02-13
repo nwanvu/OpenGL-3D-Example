@@ -2,5 +2,12 @@
 <resources>
 
     <string name="app_name">OpenGL 3D Example</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="author">AUTHOR</string>
+    <string name="source">SOURCE</string>
+    <string name="nwanvu">nwanvu</string>
+    <string name="source_url">https://github.com/nwanvu/OpenGL-3D-Example</string>
 
 </resources>

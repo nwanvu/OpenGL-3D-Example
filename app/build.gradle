@@ -5,11 +5,11 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.nwanvu.opengl3dexample"
+        applicationId "com.nwanvu.example.opengl3d"
         minSdkVersion 8
         targetSdkVersion 21
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.1"
     }
     buildTypes {
         release {

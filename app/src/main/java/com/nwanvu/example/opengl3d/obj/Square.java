@@ -1,4 +1,4 @@
-package com.nwanvu.opengl3dexample.obj;
+package com.nwanvu.example.opengl3d.obj;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

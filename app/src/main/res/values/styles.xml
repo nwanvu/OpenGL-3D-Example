@@ -5,4 +5,13 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="HeaderTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="ContentTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
 </resources>
